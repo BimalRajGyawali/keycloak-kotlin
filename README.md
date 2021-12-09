@@ -1,5 +1,4 @@
 ## Keycloak
-<br>
 
 ### Introduction
 - Open Source Software for Identity and Access Management
